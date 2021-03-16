@@ -1,0 +1,37 @@
+.list-group .list-group-item.active {
+    background-color: #bd194b;
+    border-radius: 0;
+}
+
+.list-group-item a {
+    color: #484848;
+}
+
+.list-group-item.active a {
+    color: #fff;
+}
+
+.green-bg {
+    background-color: #3a8100;
+}
+
+.yellow-bg {
+    background-color: #d4951c;
+}
+
+.blue-bg {
+    background-color: #1f428d;
+}
+
+.red-bg {
+    background-color: #bd194b;
+}
+
+.b-top {
+    margin-top: -40px;
+    height: fit-content;
+}
+
+.top-blocks .b-top {
+    width: 60px;
+}
